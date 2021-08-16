@@ -1,5 +1,5 @@
 {
-  "name": "stackos",
+  "name": "node-package-sample-test1",
   "version": "1.0.0",
   "description": "test function package",
   "main": "test.js",
